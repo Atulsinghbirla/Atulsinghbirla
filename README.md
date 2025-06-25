@@ -9,7 +9,7 @@
 
 ### 🧠 About Me:
 
-- 🎓 AIML Aspirant | Tech Enthusiast | Curious Mind  
+- 🎓 AI/ML Aspirant | Tech Enthusiast | Bug Hunter 
 - 🧰 Languages & Tools:  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
