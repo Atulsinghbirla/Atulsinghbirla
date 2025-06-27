@@ -62,9 +62,9 @@
 
 ### 🐍 Snake Eating My Contributions
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Atulsinghbirla/Atulsinghbirla/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Atulsinghbirla/Atulsinghbirla/refs/heads/main/github-user-contribution.svg" alt="Snake animation" />
+</div>
 
 ---
 
